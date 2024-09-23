@@ -1,0 +1,117 @@
+Words: ABHOR and CROAK - Distance Diff: 29.318057801101986, Frequency Diff: 14.0
+Words: ABHOR and DOPEY - Distance Diff: 3.3587653645599858, Frequency Diff: 127.0
+Words: ABODE and SAVOY - Distance Diff: 38.53761181716868, Frequency Diff: 25.0
+Words: ACRID and MATEY - Distance Diff: 2.15955998326217, Frequency Diff: 42.0
+Words: ACRID and RASPY - Distance Diff: 33.12754279844057, Frequency Diff: 456.0
+Words: ATONE and FRISK - Distance Diff: 4.763963062263201, Frequency Diff: 389.0
+Words: BASTE and COWER - Distance Diff: 7.746523680969176, Frequency Diff: 363.0
+Words: BEFIT and GAWKY - Distance Diff: 2.179349550662664, Frequency Diff: 115.0
+Words: BIRTH and VIRUS - Distance Diff: 31.590446168866265, Frequency Diff: 67.0
+
+
+
+Words: BLUER and GONER - Distance Diff: 29.95107368454501, Frequency Diff: 142.0
+Words: BLURT and FROND - Distance Diff: 30.97246329436939, Frequency Diff: 226.0
+Words: BOAST and NICER - Distance Diff: 28.80601322201983, Frequency Diff: 169.0
+Words: BURLY and MANGE - Distance Diff: 2.3114404885852764, Frequency Diff: 149.0
+Words: CAIRN and PRUNE - Distance Diff: 14.176276397642823, Frequency Diff: 160.0
+Words: CLEAT and SURLY - Distance Diff: 19.49126698176815, Frequency Diff: 243.0
+Words: CREDO and FEMUR - Distance Diff: 44.09394792942521, Frequency Diff: 290.0
+Words: CROAK and DOPEY - Distance Diff: 32.67682316566197, Frequency Diff: 141.0
+Words: DOGMA and WINCH - Distance Diff: 47.14914971345479, Frequency Diff: 240.0
+Words: DRONE and SPIRE - Distance Diff: 14.190942686724384, Frequency Diff: 397.0
+Words: DRONE and WHACK - Distance Diff: 48.3335915956136, Frequency Diff: 73.0
+Words: DUNCE and SQUIB - Distance Diff: 1.3907415134617622, Frequency Diff: 398.0
+Words: EXTOL and KNAVE - Distance Diff: 25.421070710026697, Frequency Diff: 171.0
+Words: FILER and LUSTY - Distance Diff: 32.94755602291434, Frequency Diff: 107.0
+Words: FLARE and WIGHT - Distance Diff: 18.169521222912635, Frequency Diff: 262.0
+Words: FLIER and SCANT - Distance Diff: 1.277286815120533, Frequency Diff: 473.0
+Words: FLOWN and SILKY - Distance Diff: 2.07957785706526, Frequency Diff: 229.0
+Words: FROND and TAPIR - Distance Diff: 46.4092919401819, Frequency Diff: 254.0
+Words: GLARE and SPADE - Distance Diff: 0.18346957947824194, Frequency Diff: 468.0
+Words: GRAIL and MEDIC - Distance Diff: 10.510165339833065, Frequency Diff: 242.0
+Words: GROPE and JOUST - Distance Diff: 10.240809159224, Frequency Diff: 161.0
+Words: HARPY and SINGE - Distance Diff: 5.5242288393851595, Frequency Diff: 128.0
+Words: JOIST and PITHY - Distance Diff: 26.938768892945063, Frequency Diff: 454.0
+Words: LEANT and SCALD - Distance Diff: 3.0830090858717085, Frequency Diff: 433.0
+Words: MATEY and RASPY - Distance Diff: 30.967982815178402, Frequency Diff: 498.0
+Words: MEALY and SHUCK - Distance Diff: 0.283276137275152, Frequency Diff: 459.0
+Words: SCALP and STUMP - Distance Diff: 49.6030071094101, Frequency Diff: 239.0
+Words: SCONE and THROB - Distance Diff: 37.20847403100356, Frequency Diff: 142.0
+Words: SNORE and SPIED - Distance Diff: 39.26391051659925, Frequency Diff: 248.0
+
+
+
+Words: ABHOR and CROAK - Distance Diff: 29.318057801101986, Frequency Diff: 14.0
+Words: ABHOR and DOPEY - Distance Diff: 3.3587653645599858, Frequency Diff: 127.0
+Words: ABODE and SAVOY - Distance Diff: 38.53761181716868, Frequency Diff: 25.0
+Words: ACRID and MATEY - Distance Diff: 2.15955998326217, Frequency Diff: 42.0
+Words: ACRID and RASPY - Distance Diff: 33.12754279844057, Frequency Diff: 456.0
+Words: ANODE and SHALE - Distance Diff: 31.18024434798872, Frequency Diff: 793.0
+Words: APHID and COVEN - Distance Diff: 34.81224421433171, Frequency Diff: 683.0
+Words: ATONE and BALER - Distance Diff: 5.255330056492539, Frequency Diff: 899.0
+Words: ATONE and FRISK - Distance Diff: 4.763963062263201, Frequency Diff: 389.0
+Words: BASTE and COWER - Distance Diff: 7.746523680969176, Frequency Diff: 363.0
+Words: BEFIT and GAWKY - Distance Diff: 2.179349550662664, Frequency Diff: 115.0
+Words: BIRTH and VIRUS - Distance Diff: 31.590446168866265, Frequency Diff: 67.0
+Words: BLUER and GONER - Distance Diff: 29.95107368454501, Frequency Diff: 142.0
+Words: BLURT and FROND - Distance Diff: 30.97246329436939, Frequency Diff: 226.0
+
+Words: BUDGE and WIELD - Distance Diff: 19.204597287309525, Frequency Diff: 872.0
+Words: BURLY and MANGE - Distance Diff: 2.3114404885852764, Frequency Diff: 149.0
+Words: CAIRN and PRUNE - Distance Diff: 14.176276397642823, Frequency Diff: 160.0
+Words: CLEAT and SURLY - Distance Diff: 19.49126698176815, Frequency Diff: 243.0
+Words: COVET and TEPID - Distance Diff: 17.210869025489956, Frequency Diff: 883.0
+Words: CREDO and FEMUR - Distance Diff: 44.09394792942521, Frequency Diff: 290.0
+Words: CROAK and DOPEY - Distance Diff: 32.67682316566197, Frequency Diff: 141.0
+Words: CRUMP and MINCE - Distance Diff: 6.384822935835928, Frequency Diff: 514.0
+Words: DINGY and PUSHY - Distance Diff: 21.217491987706126, Frequency Diff: 641.0
+Words: DOGMA and WINCH - Distance Diff: 47.14914971345479, Frequency Diff: 240.0
+Words: DRONE and HOWDY - Distance Diff: 21.113041997523396, Frequency Diff: 824.0
+Words: DRONE and SPIRE - Distance Diff: 14.190942686724384, Frequency Diff: 397.0
+Words: DRONE and WHACK - Distance Diff: 48.3335915956136, Frequency Diff: 73.0
+Words: DUCHY and GAUNT - Distance Diff: 18.888398954509285, Frequency Diff: 516.0
+Words: DUNCE and SQUIB - Distance Diff: 1.3907415134617622, Frequency Diff: 398.0
+Words: EXTOL and KNAVE - Distance Diff: 25.421070710026697, Frequency Diff: 171.0
+Words: FICUS and TIPSY - Distance Diff: 43.08242826653532, Frequency Diff: 597.0
+Words: FILER and LUSTY - Distance Diff: 32.94755602291434, Frequency Diff: 107.0
+Words: FLARE and WIGHT - Distance Diff: 18.169521222912635, Frequency Diff: 262.0
+Words: FLIER and SCANT - Distance Diff: 1.277286815120533, Frequency Diff: 473.0
+Words: FLOWN and SILKY - Distance Diff: 2.07957785706526, Frequency Diff: 229.0
+Words: FROCK and SNARL - Distance Diff: 32.195942393413816, Frequency Diff: 740.0
+Words: FROND and TAPIR - Distance Diff: 46.4092919401819, Frequency Diff: 254.0
+Words: FROWN and SEPIA - Distance Diff: 20.86447685745111, Frequency Diff: 918.0
+Words: GLARE and SPADE - Distance Diff: 0.18346957947824194, Frequency Diff: 468.0
+Words: GRAIL and MEDIC - Distance Diff: 10.510165339833065, Frequency Diff: 242.0
+Words: GROPE and JOUST - Distance Diff: 10.240809159224, Frequency Diff: 161.0
+Words: GRUEL and PRIED - Distance Diff: 0.46759245306361663, Frequency Diff: 645.0
+Words: HARPY and SINGE - Distance Diff: 5.5242288393851595, Frequency Diff: 128.0
+Words: JAUNT and SUMAC - Distance Diff: 16.758878893036353, Frequency Diff: 611.0
+Words: JOIST and PITHY - Distance Diff: 26.938768892945063, Frequency Diff: 454.0
+Words: LEANT and SCALD - Distance Diff: 3.0830090858717085, Frequency Diff: 433.0
+Words: LEANT and STANK - Distance Diff: 11.857233435889611, Frequency Diff: 673.0
+Words: LUMEN and PICKY - Distance Diff: 11.334244636794438, Frequency Diff: 895.0
+Words: MATEY and RASPY - Distance Diff: 30.967982815178402, Frequency Diff: 498.0
+Words: MAUVE and UNMET - Distance Diff: 36.43858566200038, Frequency Diff: 700.0
+Words: MEALY and SHUCK - Distance Diff: 0.283276137275152, Frequency Diff: 459.0
+Words: MOWER and SWINE - Distance Diff: 41.07224861573309, Frequency Diff: 923.0
+Words: MUSTY and SNIDE - Distance Diff: 41.89095630452607, Frequency Diff: 689.0
+Words: OAKEN and POUTY - Distance Diff: 16.071825399370027, Frequency Diff: 743.0
+Words: PERKY and POSER - Distance Diff: 24.27982612172218, Frequency Diff: 993.0
+Words: POUTY and WHELP - Distance Diff: 33.35417242981384, Frequency Diff: 589.0
+Words: RENAL and SPITE - Distance Diff: 43.748760042668664, Frequency Diff: 963.0
+Words: SATYR and SOWER - Distance Diff: 29.780842829883568, Frequency Diff: 543.0
+Words: SCALP and STUMP - Distance Diff: 49.6030071094101, Frequency Diff: 239.0
+Words: SCALY and STOIC - Distance Diff: 4.2692770978280805, Frequency Diff: 767.0
+Words: SCAMP and SPIEL - Distance Diff: 33.34708565170422, Frequency Diff: 926.0
+Words: SCONE and THROB - Distance Diff: 37.20847403100356, Frequency Diff: 142.0
+Words: SCOWL and SHUCK - Distance Diff: 3.4308460062543418, Frequency Diff: 907.0
+Words: SHOWY and SNORE - Distance Diff: 21.11304199752317, Frequency Diff: 673.0
+Words: SNORE and SPIED - Distance Diff: 39.26391051659925, Frequency Diff: 248.0
+
+
+
+Words: BOAST and NICER - Distance Diff: 28.80601322201983, Frequency Diff: 169.0 (May 20, 2024 #1066 NICER)
+Words: BRAVO and STING - Distance Diff: 45.53393325158868, Frequency Diff: 760.0 (Jun 2, 2024 #1079 BRAVO, Oct 3, 2022 #471 STING)
+
+Words: BIRTH and VIRUS - Distance Diff: 31.590446168866265, Frequency Diff: 67.0 (Mar 12, 2023 #631 BIRTH)
